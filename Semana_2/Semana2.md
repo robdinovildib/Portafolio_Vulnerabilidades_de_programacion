@@ -2,4 +2,3 @@
 
 ## Semana 2.
 
-Tipos de variables
